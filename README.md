@@ -10,4 +10,8 @@ https://128.84.21.199/pdf/1903.00621.pdf
 
 Bounding Box Regression with Uncertainty for Accurate Object Detection  
 
-https://github.com/yihui-he/KL-Loss
+https://github.com/yihui-he/KL-Loss  
+
+Augmentation for small object detection  
+
+https://arxiv.org/pdf/1902.07296.pdf
