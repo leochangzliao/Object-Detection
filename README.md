@@ -15,3 +15,6 @@ https://github.com/yihui-he/KL-Loss
 Augmentation for small object detection  
 
 https://arxiv.org/pdf/1902.07296.pdf
+## AAAI 2019
+Object Detection based on Region Decomposition and Assembly  
+https://arxiv.org/pdf/1901.08225.pdf
