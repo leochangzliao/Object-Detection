@@ -23,6 +23,14 @@ https://arxiv.org/pdf/1811.04533.pdf
 Focal Loss for Dense Object Detection
 https://arxiv.org/pdf/1708.02002.pdf
 
+## ECCV 2018
+Parallel Feature Pyramid Network for Object Detection
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.pdf
+
+## NIPS 2018
+SNIPER: Efficient Multi-Scale Training
+http://papers.nips.cc/paper/8143-sniper-efficient-multi-scale-training.pdf
+
 ## CVPR 2017
 YOLO9000: Better, Faster, Stronger 
 https://arxiv.org/pdf/1901.08225.pdf
