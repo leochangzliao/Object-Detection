@@ -22,7 +22,8 @@ https://arxiv.org/pdf/1811.04533.pdf
 ## CVPR 2018
 Focal Loss for Dense Object Detection
 https://arxiv.org/pdf/1708.02002.pdf
-
+Cascade R-CNN: Delving into High Quality Object Detection
+http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf
 ## ECCV 2018
 Parallel Feature Pyramid Network for Object Detection
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.pdf
@@ -30,7 +31,8 @@ http://openaccess.thecvf.com/content_ECCV_2018/papers/Seung-Wook_Kim_Parallel_Fe
 ## NIPS 2018
 SNIPER: Efficient Multi-Scale Training
 http://papers.nips.cc/paper/8143-sniper-efficient-multi-scale-training.pdf
-
+## arXiv' 18
+YOLOv3: An Incremental Improvement https://pjreddie.com/media/files/papers/YOLOv3.pdf
 ## CVPR 2017
 YOLO9000: Better, Faster, Stronger 
 https://arxiv.org/pdf/1901.08225.pdf
