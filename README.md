@@ -28,7 +28,8 @@ http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_
 ## ECCV 2018
 Parallel Feature Pyramid Network for Object Detection
 http://openaccess.thecvf.com/content_ECCV_2018/papers/Seung-Wook_Kim_Parallel_Feature_Pyramid_ECCV_2018_paper.pdf
-
+Receptive Field Block Net for Accurate and Fast Object Detection  
+http://openaccess.thecvf.com/content_ECCV_2018/papers/Songtao_Liu_Receptive_Field_Block_ECCV_2018_paper.pdf
 ## NIPS 2018
 SNIPER: Efficient Multi-Scale Training
 http://papers.nips.cc/paper/8143-sniper-efficient-multi-scale-training.pdf
