@@ -22,8 +22,8 @@ https://arxiv.org/pdf/1811.04533.pdf
 
 ## CVPR 2018
 Focal Loss for Dense Object Detection
-https://arxiv.org/pdf/1708.02002.pdf
-Cascade R-CNN: Delving into High Quality Object Detection
+https://arxiv.org/pdf/1708.02002.pdf  
+Cascade R-CNN: Delving into High Quality Object Detection  
 http://openaccess.thecvf.com/content_cvpr_2018/papers/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.pdf
 ## ECCV 2018
 Parallel Feature Pyramid Network for Object Detection
