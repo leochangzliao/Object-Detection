@@ -1,4 +1,10 @@
 # Object-Detection
+
+## arxiv19
+FCOS: Fully Convolutional One-Stage Object Detection  
+https://arxiv.org/pdf/1904.01355.pdf
+
+
 ## CVPR 2019
 Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression 
 https://arxiv.org/pdf/1902.09630.pdf  
