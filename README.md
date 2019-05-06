@@ -10,10 +10,9 @@ Bounding Box Regression with Uncertainty for Accurate Object Detection
 https://github.com/yihui-he/KL-Loss  
 
 Augmentation for small object detection  
-https://arxiv.org/pdf/1902.07296.pdf
-Augmentation for small object detection
 https://arxiv.org/pdf/1902.07296.pdf  
-Region Proposal by Guided Anchoring
+
+Region Proposal by Guided Anchoring  
 https://arxiv.org/pdf/1901.03278.pdf
 ## AAAI 2019
 Object Detection based on Region Decomposition and Assembly
