@@ -20,6 +20,11 @@ https://arxiv.org/pdf/1902.07296.pdf
 
 Region Proposal by Guided Anchoring  
 https://arxiv.org/pdf/1901.03278.pdf
+
+Libra R-CNN: Towards Balanced Learning for Object Detection  
+https://arxiv.org/pdf/1904.02701.pdf  
+
+
 ## AAAI 2019
 Object Detection based on Region Decomposition and Assembly
 https://arxiv.org/pdf/1901.08225v1.pdf
