@@ -2,8 +2,9 @@
 
 ## arxiv19
 FCOS: Fully Convolutional One-Stage Object Detection  
-https://arxiv.org/pdf/1904.01355.pdf
-
+https://arxiv.org/pdf/1904.01355.pdf　　
+High-Resolution Representations for Labeling Pixels and Regions
+https://arxiv.org/pdf/1904.04514.pdf　　
 
 ## CVPR 2019
 Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression 
