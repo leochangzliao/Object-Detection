@@ -7,6 +7,9 @@ https://arxiv.org/pdf/1904.01355.pdf　　
 High-Resolution Representations for Labeling Pixels and Regions  
 https://arxiv.org/pdf/1904.04514.pdf　　
 
+Bag of Freebies for Training Object Detection Neural Networks  
+https://arxiv.org/pdf/1902.04103.pdf  
+
 ## CVPR 2019
 Generalized Intersection over Union: A Metric and A Loss for Bounding Box Regression 
 https://arxiv.org/pdf/1902.09630.pdf  
