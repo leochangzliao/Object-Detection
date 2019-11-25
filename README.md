@@ -2,6 +2,9 @@
 
 ## refer https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/README.md
 ## arxiv19
+Cascade RetinaNet:Maintaining Consistency for Single-StageObject Detection  
+https://arxiv.org/pdf/1907.06881v1.pdf  
+
 EfficientDet: Scalable and Efficient Object Detection  
 https://arxiv.org/abs/1911.09070  
 FreeAnchor: Learning to Match Anchors for VisualObject Detection  
