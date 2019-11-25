@@ -2,6 +2,8 @@
 
 ## refer https://github.com/Sophia-11/Awesome-CV-Paper-Review/blob/master/README.md
 ## arxiv19
+EfficientDet: Scalable and Efficient Object Detection  
+https://arxiv.org/abs/1911.09070  
 FreeAnchor: Learning to Match Anchors for VisualObject Detection  
 https://arxiv.org/pdf/1909.02466.pdf  
 FCOS: Fully Convolutional One-Stage Object Detection  
